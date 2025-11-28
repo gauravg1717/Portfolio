@@ -1,6 +1,6 @@
 ![Project 1 Screenshot](img/p1.png)
 
-# Raj G Patil's Portfolio
+# Gaurav Gaikwad's Portfolio
 
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and experience as a full-stack developer.
 
