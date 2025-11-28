@@ -32,7 +32,7 @@ Here are some sample images from my projects:
 ## Contact
 Feel free to reach out to me for any queries or opportunities.
 
-- **Email:** [rxjpatil@gmail.com](mailto:rxjpatil@gmail.com)
+- **Email:** [gauravgaikwadg1717@gmail.com](mailto: gauravgaikwadg1717@gmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rxjpatil/)
 - **GitHub:** [GitHub Profile](https://github.com/rxjpatil)
 
